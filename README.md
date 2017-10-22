@@ -5,12 +5,19 @@ deep learning для решения задачи: Распознавание и�
 
 # Требования
 cv2 3.0.0
+
 python 3.5.2
+
 anaconda 1.5.1
+
 matlab R2017b с пакетами:
+
 •	Data Analytics
+
 •	Image Processing and Computer Vision
+
 •	Signal Processing and Communications
+
 
 # Полезные ссылки
 Matlab https://www.mathworks.com/programs/trials/trial_additional_info.html?em=pavolkovich@edu.hse.ru&product_info=ML&&
