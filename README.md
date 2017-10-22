@@ -26,7 +26,7 @@ Matlab https://www.mathworks.com/programs/trials/trial_additional_info.html?em=p
 
 База данных Caltech101 сайт http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
-# Алгоритм 
+# Предобработка
 Перед тем как подать картинки из базы данных Сaltech101 на вход, мы провели препроцесинг изображений из всех категорий в Python. 
 
-Запускаем preprocessing.py в Jupiter Notebook. А далее в Matlab запускаем run.m.
+Запускаем preprocessing.py в Jupiter Notebook. Далее в Matlab для AlexNet запускаем runAlexNet.m, а для VGG16 запускаем runVGG16.m
