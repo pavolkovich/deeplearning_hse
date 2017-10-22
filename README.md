@@ -23,6 +23,7 @@ matlab R2017b с пакетами:
 
 # Полезные ссылки
 Matlab https://www.mathworks.com/programs/trials/trial_additional_info.html?em=pavolkovich@edu.hse.ru&product_info=ML&&
+
 База данных Caltech101 сайт http://www.vision.caltech.edu/Image_Datasets/Caltech101/
 
 # Алгоритм 
