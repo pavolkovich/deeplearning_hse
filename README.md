@@ -27,4 +27,5 @@ Matlab https://www.mathworks.com/programs/trials/trial_additional_info.html?em=p
 
 # Алгоритм 
 Перед тем как подать картинки из базы данных Сaltech101 на вход, мы провели препроцесинг изображений из всех категорий в Python. 
+
 Запускаем preprocessing.py в Jupiter Notebook. А далее в Matlab запускаем run.m.
